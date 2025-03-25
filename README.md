@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Project Name : Peniel
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
