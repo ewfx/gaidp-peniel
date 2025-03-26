@@ -70,7 +70,7 @@ Due to the extensive nature of the Federal Reserve's regulatory reporting guidel
 - 🔹 Other: OpenAI API
 
 ## 👥 Team
-- Oishwarjya Banerjee - [[GitHub](#)](https://github.com/vani2001) | [LinkedIn](#)
-- Rushil Goeel - [GitHub](#) | [LinkedIn](#)
-- Vani Mittal - [GitHub](#) | [LinkedIn](#)
+- Oishwarjya Banerjee - [[[GitHub](#)]](https://github.com/Oishwarjya) | [LinkedIn](#)
+- Rushil Goeel - [[GitHub](#)](https://github.com/rushilg13) | [LinkedIn](#)
+- Vani Mittal - [GitHub](#) (https://github.com/vani2001) | [LinkedIn](#)
 - Aryan Srivastava- [GitHub](#) | [LinkedIn](#)
